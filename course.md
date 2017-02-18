@@ -2,12 +2,9 @@
 ---------------------------------------------------------------------------------------------------------
 Kroo                                                                         Search: ___________  LOGIN
 ---------------------------------------------------------------------------------------------------------
-
-Course Name
-
----------------------------------------------------------------------------------------------------------
   +----------------------------------------------------------------+
-  |                                                                |
+  |                                                                |       Course Name
+  |                                                                |       by Teerapong Manakul 
   |                                                                |
   |                                                                |             ENROLL | CONTINUE
   |                                                                |
@@ -19,7 +16,6 @@ Course Name
   |                                                                |       |       |       Tutor      |
   |                                                                |       |       |    Mr. Batman    |
   |                                                                |       +--------------------------+
-  |                                                                |
   |                                                                |
   +----------------------------------------------------------------+
 
@@ -35,25 +31,32 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Content
 -------
 Part 1:
-   Lorem ipsum dolor sit amet
-   consectetur adipisicing elitsed do eiusmod
-   tempor incididunt ut labore et dolore magna aliqua
+   ✔ Lorem ipsum dolor sit amet (completed)
+   ✔ consectetur adipisicing elitsed do eiusmod (completed)
+   ✔ tempor incididunt ut labore et dolore magna aliqua (completed)
 
 Part 2:
-   Ut enim ad minim veniam,
-   quis nostrud exercitation ullamco laboris
-   nisi ut aliquip ex ea commodo
-   consequat. Duis aute irure dolor in
-   reprehenderit in voluptate velit esse
+   ✔ Ut enim ad minim veniam (completed)
+     quis nostrud exercitation ullamco laboris
+     nisi ut aliquip ex ea commodo
+     consequat. Duis aute irure dolor in
+     reprehenderit in voluptate velit esse
 
 Part 3:
-   cillum dolore eu fugiat nulla pariatur
-   Excepteur sint occaecat cupidatat non
-   proident sunt in culpa qui officia
-   deserunt mollit anim id est laborum.
+     cillum dolore eu fugiat nulla pariatur
+     Excepteur sint occaecat cupidatat non
+     proident sunt in culpa qui officia
+     deserunt mollit anim id est laborum
 
 Reviews
 -------
+   (_)(_)(_)(_)(_) (this for rate)
+   +----------------------------------+
+   |                                  |
+   |                                  |
+   |                                  |  +--------+
+   |                                  |  | SUBMIT |
+   +----------------------------------+  +--------+
     _  _     _____ 
    | || |   | ____|    5 |||||||||||||||||||||
    | || |_  | |__      4 ||||||||||||||||
